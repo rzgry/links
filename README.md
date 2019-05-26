@@ -7,6 +7,7 @@ Collection of links / articles related to various topics.
 * https://medium.com/@avivbiton01/express-js-how-to-refactor-your-routes-using-middlewares-1c95413934e
 * https://www.twilio.com/blog/how-to-build-a-cli-with-node-js
 * https://smalldata.tech/blog/2017/05/19/nodejs-express-api-development-security-checklist
+* https://silvenon.com/blog/mocking-functions-and-modules-with-jest
 
 
 ### ReactJS
@@ -15,3 +16,7 @@ Collection of links / articles related to various topics.
 ### CSS
 * https://tobiasahlin.com/blog/common-flexbox-patterns/
 * https://philipwalton.github.io/solved-by-flexbox/
+
+### HTTP
+* https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
+

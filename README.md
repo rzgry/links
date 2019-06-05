@@ -1,6 +1,11 @@
 # Links
 
-Collection of links / articles related to various topics.
+Collection of links / articles that I have found useful.
+
+### JavaScript
+
+### Web Design
+* https://refactoringui.com/previews/building-your-color-palette/
 
 ### NodeJS
 * https://softwareontheroad.com/ideal-nodejs-project-structure/

@@ -26,5 +26,6 @@ Collection of links / articles that I have found useful.
 
 ### Web Design
 * https://refactoringui.com/previews/building-your-color-palette/
+* https://www.svgbackgrounds.com
 
 

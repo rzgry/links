@@ -12,6 +12,7 @@ Collection of links / articles that I have found useful.
 * How to build a CLI with Node.js - https://www.twilio.com/blog/how-to-build-a-cli-with-node-js
 * Node API security checklist - https://smalldata.tech/blog/2017/05/19/nodejs-express-api-development-security-checklist
 * Mocking Functions and Modules with Jest - https://silvenon.com/blog/mocking-functions-and-modules-with-jest
+* Design patterns in Node.js: a practical guide - https://blog.logrocket.com/design-patterns-in-node-js/
 
 
 ### ReactJS

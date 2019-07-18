@@ -21,6 +21,7 @@ Collection of links / articles that I have found useful.
 
 ### HTTP
 * HTTP headers for the responsible developer - https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
+* HTTP Security Headers - A Complete Guide - https://nullsweep.com/http-security-headers-a-complete-guide/
 
 ### CSS
 * Common CSS Flexbox Layout Patterns - https://tobiasahlin.com/blog/common-flexbox-patterns/

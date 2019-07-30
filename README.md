@@ -4,6 +4,7 @@ Collection of links / articles that I have found useful.
 
 ### JavaScript
 * JavaScript Engines: How Do They Even Work? - https://www.valentinog.com/blog/engines/
+* Getting Started with TensorFlow.js - https://www.curiousily.com/posts/getting-started-with-tensorflow-js/
 
 ### NodeJS
 * Bulletproof node.js project architecture - https://softwareontheroad.com/ideal-nodejs-project-structure/

@@ -33,4 +33,7 @@ Collection of links / articles that I have found useful.
 * Building Your Color Palette - https://refactoringui.com/previews/building-your-color-palette/
 * SVG Backgrounds - https://www.svgbackgrounds.com
 
+### Git
+* Gitflow - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
 

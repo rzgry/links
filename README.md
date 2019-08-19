@@ -36,4 +36,7 @@ Collection of links / articles that I have found useful.
 ### Git
 * Gitflow - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
+### Redis
+* Introduction to Redis - https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/
+
 

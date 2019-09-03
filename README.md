@@ -41,5 +41,6 @@ Collection of links / articles that I have found useful.
 
 ### Kubernetes
 * Kubernetes 101 - https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters
+* Kubernetes Academy - https://kubernetes.academy/
 
 

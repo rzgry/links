@@ -34,6 +34,7 @@ Collection of links / articles that I have found useful.
 * SVG Backgrounds - https://www.svgbackgrounds.com
 
 ### Git
+* Opinionated git cheat sheet - https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm#blog-post
 * Gitflow - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 ### Redis

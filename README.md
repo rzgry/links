@@ -37,6 +37,7 @@ Collection of links / articles that I have found useful.
 ### Git
 * Opinionated git cheat sheet - https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm#blog-post
 * Gitflow - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+* Conventional Commits - https://www.conventionalcommits.org/
 
 ### Redis
 * Introduction to Redis - https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/

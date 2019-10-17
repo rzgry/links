@@ -14,6 +14,7 @@ Collection of links / articles that I have found useful.
 * Node API security checklist - https://smalldata.tech/blog/2017/05/19/nodejs-express-api-development-security-checklist
 * Mocking Functions and Modules with Jest - https://silvenon.com/blog/mocking-functions-and-modules-with-jest
 * Design patterns in Node.js: a practical guide - https://blog.logrocket.com/design-patterns-in-node-js/
+* Architecture flow - https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/
 
 
 ### ReactJS

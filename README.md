@@ -35,6 +35,9 @@ Collection of links / articles that I have found useful.
 * Building Your Color Palette - https://refactoringui.com/previews/building-your-color-palette/
 * SVG Backgrounds - https://www.svgbackgrounds.com
 
+### SEO
+* Gatsby SEO - https://gregberge.com/blog/gatsby-seo
+
 ### Git
 * Opinionated git cheat sheet - https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm#blog-post
 * Gitflow - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow

@@ -27,9 +27,12 @@ Collection of links / articles that I have found useful.
 * HTTP Security Headers - A Complete Guide - https://nullsweep.com/http-security-headers-a-complete-guide/
 
 ### CSS
+* CSS Box Model - https://internetingishard.com/html-and-css/css-box-model/
 * Common CSS Flexbox Layout Patterns - https://tobiasahlin.com/blog/common-flexbox-patterns/
 * Solved by flexbox - https://philipwalton.github.io/solved-by-flexbox/
+* A complete guide to flexbox - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * CSS Grid: No Nonsense Layouts - https://testdriven.io/blog/css-grid/
+* Advanced Positional Tutorial - https://internetingishard.com/html-and-css/advanced-positioning/
 
 ### Web Design
 * Building Your Color Palette - https://refactoringui.com/previews/building-your-color-palette/

@@ -52,6 +52,7 @@ Collection of links / articles that I have found useful.
 ### Kubernetes
 * Kubernetes 101 - https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters
 * Kubernetes Academy - https://kubernetes.academy/
+* Kubernetes Cheat Sheet - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 ### VS Code
 * Shortcuts - https://medium.com/@ideepak.jsd/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d

@@ -15,6 +15,7 @@ Collection of links / articles that I have found useful.
 * Mocking Functions and Modules with Jest - https://silvenon.com/blog/mocking-functions-and-modules-with-jest
 * Design patterns in Node.js: a practical guide - https://blog.logrocket.com/design-patterns-in-node-js/
 * Architecture flow - https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/
+* Memory Leaks Demystified - https://nodesource.com/blog/memory-leaks-demystified
 
 
 ### ReactJS

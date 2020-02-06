@@ -58,3 +58,6 @@ Collection of links / articles that I have found useful.
 
 ### VS Code
 * Shortcuts - https://medium.com/@ideepak.jsd/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d
+
+### System Design
+* Scaling to 100k Users - https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html

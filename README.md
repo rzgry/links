@@ -3,7 +3,6 @@
 Collection of links / articles that I have found useful.
 
 ### JavaScript
-* JavaScript Engines: How Do They Even Work? - https://www.valentinog.com/blog/engines/
 * Getting Started with TensorFlow.js - https://www.curiousily.com/posts/getting-started-with-tensorflow-js/
 
 ### NodeJS
@@ -21,7 +20,6 @@ Collection of links / articles that I have found useful.
 
 ### ReactJS
 * Making Sense of React Hooks - https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
-* Publish a react component as npm module - https://parastudios.de/create-a-react-component-as-npm-module/
 * SVG for React Developers - https://able.bio/dbmzzo/intro-to-svg-for-react-developers--56cmmcy
 
 ### HTTP

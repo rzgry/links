@@ -3,6 +3,7 @@
 Collection of links / articles that I have found useful.
 
 ### JavaScript
+* JavaScript event loop explained - https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4
 * Getting Started with TensorFlow.js - https://www.curiousily.com/posts/getting-started-with-tensorflow-js/
 
 ### NodeJS

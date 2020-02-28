@@ -23,6 +23,10 @@ Collection of links / articles that I have found useful.
 * Making Sense of React Hooks - https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
 * SVG for React Developers - https://able.bio/dbmzzo/intro-to-svg-for-react-developers--56cmmcy
 
+### System Design
+* How I Write Backends - https://github.com/fpereiro/backendlore
+* Scaling to 100k Users - https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
+
 ### HTTP
 * HTTP headers for the responsible developer - https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
 * HTTP Security Headers - A Complete Guide - https://nullsweep.com/http-security-headers-a-complete-guide/
@@ -58,5 +62,3 @@ Collection of links / articles that I have found useful.
 ### VS Code
 * Shortcuts - https://medium.com/@ideepak.jsd/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d
 
-### System Design
-* Scaling to 100k Users - https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html

@@ -31,6 +31,9 @@ Collection of links / articles that I have found useful.
 * HTTP headers for the responsible developer - https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer
 * HTTP Security Headers - A Complete Guide - https://nullsweep.com/http-security-headers-a-complete-guide/
 
+### GraphQL
+* Intro to GraphQL - https://hasura.io/learn/graphql/react/intro-to-graphql/
+
 ### CSS
 * CSS Box Model - https://internetingishard.com/html-and-css/css-box-model/
 * Common CSS Flexbox Layout Patterns - https://tobiasahlin.com/blog/common-flexbox-patterns/

@@ -57,6 +57,9 @@ Collection of links / articles that I have found useful.
 ### Redis
 * Introduction to Redis - https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/
 
+### Docker
+* Intro guide to dockerfile best practices - https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/
+
 ### Kubernetes
 * Kubernetes 101 - https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters
 * Kubernetes Academy - https://kubernetes.academy/

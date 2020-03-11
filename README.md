@@ -2,6 +2,21 @@
 
 Collection of links / articles that I have found useful.
 
+## Topics
+  - [JavaScript](#javascript)
+  - [NodeJS](#nodejs)
+  - [ReactJS](#reactjs)
+  - [System Design](#system-design)
+  - [HTTP](#http)
+  - [GraphQL](#graphql)
+  - [CSS](#css)
+  - [Web Design](#web-design)
+  - [SEO](#seo)
+  - [Git](#git)
+  - [Databases](#databases)
+  - [Docker](#docker)
+  - [Kubernetes](#kubernetes)
+
 ### JavaScript
 * JavaScript event loop explained - https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4
 * Getting Started with TensorFlow.js - https://www.curiousily.com/posts/getting-started-with-tensorflow-js/
@@ -65,7 +80,4 @@ Collection of links / articles that I have found useful.
 * Kubernetes 101 - https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters
 * Kubernetes Academy - https://kubernetes.academy/
 * Kubernetes Cheat Sheet - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
-
-### VS Code
-* Shortcuts - https://medium.com/@ideepak.jsd/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d
 

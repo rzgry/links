@@ -54,7 +54,8 @@ Collection of links / articles that I have found useful.
 * Gitflow - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 * Conventional Commits - https://www.conventionalcommits.org/
 
-### Redis
+### Databases
+* Postgresql for those who cant even - https://rob.conery.io/2020/01/24/postgresql-for-those-who-cant-even-part-1/
 * Introduction to Redis - https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/
 
 ### Docker

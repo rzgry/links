@@ -10,12 +10,13 @@ Collection of links / articles that I have found useful.
   - [HTTP](#http)
   - [GraphQL](#graphql)
   - [CSS](#css)
-  - [Web Design](#web-design)
-  - [SEO](#seo)
   - [Git](#git)
   - [Databases](#databases)
   - [Docker](#docker)
   - [Kubernetes](#kubernetes)
+  - [Web Design](#web-design)
+  - [SEO](#seo)
+
 
 ### JavaScript
 * JavaScript event loop explained - https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4
@@ -57,13 +58,6 @@ Collection of links / articles that I have found useful.
 * CSS Grid: No Nonsense Layouts - https://testdriven.io/blog/css-grid/
 * Advanced Positional Tutorial - https://internetingishard.com/html-and-css/advanced-positioning/
 
-### Web Design
-* Building Your Color Palette - https://refactoringui.com/previews/building-your-color-palette/
-* SVG Backgrounds - https://www.svgbackgrounds.com
-
-### SEO
-* Gatsby SEO - https://gregberge.com/blog/gatsby-seo
-
 ### Git
 * Opinionated git cheat sheet - https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm#blog-post
 * Gitflow - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
@@ -82,3 +76,9 @@ Collection of links / articles that I have found useful.
 * Kubernetes Cheat Sheet - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 * Mastering the Kubeconfig file - https://ahmet.im/blog/mastering-kubeconfig/
 
+### Web Design
+* Building Your Color Palette - https://refactoringui.com/previews/building-your-color-palette/
+* SVG Backgrounds - https://www.svgbackgrounds.com
+
+### SEO
+* Gatsby SEO - https://gregberge.com/blog/gatsby-seo

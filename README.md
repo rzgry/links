@@ -77,6 +77,7 @@ Collection of links / articles that I have found useful.
 * Mastering the Kubeconfig file - https://ahmet.im/blog/mastering-kubeconfig/
 
 ### Web Design
+* 7 practical tips for cheating at design- https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
 * Building Your Color Palette - https://refactoringui.com/previews/building-your-color-palette/
 * SVG Backgrounds - https://www.svgbackgrounds.com
 

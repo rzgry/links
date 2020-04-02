@@ -56,6 +56,7 @@ Collection of links / articles that I have found useful.
 * Solved by flexbox - https://philipwalton.github.io/solved-by-flexbox/
 * A complete guide to flexbox - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * CSS Grid: No Nonsense Layouts - https://testdriven.io/blog/css-grid/
+* CSS Architecture for Modern Web Applications - https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications/
 * Advanced Positional Tutorial - https://internetingishard.com/html-and-css/advanced-positioning/
 
 ### Git

@@ -27,7 +27,6 @@ Collection of links / articles that I have found useful.
 * Node.js Best Practices - https://github.com/i0natan/nodebestpractices
 * How to refactor your routes using middleware - https://medium.com/@avivbiton01/express-js-how-to-refactor-your-routes-using-middlewares-1c95413934e
 * How to build a CLI with Node.js - https://www.twilio.com/blog/how-to-build-a-cli-with-node-js
-* Node API security checklist - https://smalldata.tech/blog/2017/05/19/nodejs-express-api-development-security-checklist
 * Mocking Functions and Modules with Jest - https://silvenon.com/blog/mocking-functions-and-modules-with-jest
 * Design patterns in Node.js: a practical guide - https://blog.logrocket.com/design-patterns-in-node-js/
 * Architecture flow - https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/
@@ -40,6 +39,7 @@ Collection of links / articles that I have found useful.
 * SVG for React Developers - https://able.bio/dbmzzo/intro-to-svg-for-react-developers--56cmmcy
 
 ### System Design
+* System Design Primer - https://github.com/donnemartin/system-design-primer
 * How I Write Backends - https://github.com/fpereiro/backendlore
 * Scaling to 100k Users - https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
 
@@ -49,6 +49,11 @@ Collection of links / articles that I have found useful.
 
 ### GraphQL
 * Intro to GraphQL - https://hasura.io/learn/graphql/react/intro-to-graphql/
+
+### Security
+* API Security Checklist - https://github.com/shieldfy/API-Security-Checklist
+* Strong Node.js - https://github.com/jesusprubio/strong-node
+* Node API security checklist - https://smalldata.tech/blog/2017/05/19/nodejs-express-api-development-security-checklist
 
 ### CSS
 * CSS Box Model - https://internetingishard.com/html-and-css/css-box-model/

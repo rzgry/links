@@ -9,6 +9,7 @@ Collection of links / articles that I have found useful.
   - [System Design](#system-design)
   - [HTTP](#http)
   - [GraphQL](#graphql)
+  - [Security](#security)
   - [CSS](#css)
   - [Git](#git)
   - [Databases](#databases)

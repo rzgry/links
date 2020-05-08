@@ -6,6 +6,7 @@ Collection of links / articles that I have found useful.
   - [JavaScript](#javascript)
   - [NodeJS](#nodejs)
   - [ReactJS](#reactjs)
+  - [Go](#go)
   - [System Design](#system-design)
   - [HTTP](#http)
   - [GraphQL](#graphql)
@@ -38,6 +39,11 @@ Collection of links / articles that I have found useful.
 ### ReactJS
 * Making Sense of React Hooks - https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
 * SVG for React Developers - https://able.bio/dbmzzo/intro-to-svg-for-react-developers--56cmmcy
+
+### Go
+* Learn Go with Tests - https://github.com/quii/learn-go-with-tests
+* Ultimate go - https://github.com/hoanhan101/ultimate-go
+* Uber go style guide - https://github.com/uber-go/guide
 
 ### System Design
 * System Design Primer - https://github.com/donnemartin/system-design-primer

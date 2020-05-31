@@ -84,6 +84,7 @@ Collection of links / articles that I have found useful.
 * Intro guide to dockerfile best practices - https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/
 
 ### Kubernetes
+* Getting started with Kubernetes - https://www.learncloudnative.com/blog/2020-05-26-getting-started-with-kubernetes-part-1/
 * Kubernetes 101 - https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters
 * Kubernetes Academy - https://kubernetes.academy/
 * Kubernetes Cheat Sheet - https://kubernetes.io/docs/reference/kubectl/cheatsheet/

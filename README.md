@@ -81,6 +81,7 @@ Collection of links / articles that I have found useful.
 * Introduction to Redis - https://auth0.com/blog/introduction-to-redis-install-cli-commands-and-data-types/
 
 ### Docker
+* Beginners guide to Docker - https://www.learncloudnative.com/blog/2020-04-29-beginners-guide-to-docker/
 * Intro guide to dockerfile best practices - https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/
 
 ### Kubernetes

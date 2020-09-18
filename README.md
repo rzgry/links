@@ -22,6 +22,7 @@ Collection of links / articles that I have found useful.
 
 ### JavaScript
 * JavaScript event loop explained - https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4
+* DOM API cheat sheet - https://blog.logrocket.com/html5-node-cheat-sheet-21-apis-you-should-know-in-2020/
 * Getting Started with TensorFlow.js - https://www.curiousily.com/posts/getting-started-with-tensorflow-js/
 
 ### NodeJS

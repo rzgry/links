@@ -7,6 +7,7 @@ Collection of links / articles that I have found useful.
   - [NodeJS](#nodejs)
   - [ReactJS](#reactjs)
   - [Go](#go)
+  - [Java](#java)
   - [System Design](#system-design)
   - [HTTP](#http)
   - [GraphQL](#graphql)
@@ -45,6 +46,9 @@ Collection of links / articles that I have found useful.
 * Learn Go with Tests - https://github.com/quii/learn-go-with-tests
 * Ultimate go - https://github.com/hoanhan101/ultimate-go
 * Uber go style guide - https://github.com/uber-go/guide
+
+### Java
+* java8-tutorial - https://github.com/winterbe/java8-tutorial
 
 ### System Design
 * System Design Primer - https://github.com/donnemartin/system-design-primer

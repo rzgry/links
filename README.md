@@ -49,6 +49,8 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - SVG for React Developers - https://able.bio/dbmzzo/intro-to-svg-for-react-developers--56cmmcy
 - Starting point for aspiring React developers - https://scrimba.com/learn/learnreact
 
+### Go
+
 - Learn Go with Tests - https://github.com/quii/learn-go-with-tests
 - Ultimate go - https://github.com/hoanhan101/ultimate-go
 - Uber go style guide - https://github.com/uber-go/guide

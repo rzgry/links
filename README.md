@@ -90,6 +90,7 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 ### GraphQL
 
 - Intro to GraphQL - https://hasura.io/learn/graphql/react/intro-to-graphql/
+- So what’s this GraphQL thing I keep hearing about? - https://medium.com/free-code-camp/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
 
 ### Security
 

@@ -30,6 +30,7 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - JavaScript event loop explained - https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4
 - DOM API cheat sheet - https://blog.logrocket.com/html5-node-cheat-sheet-21-apis-you-should-know-in-2020/
 - Getting Started with TensorFlow.js - https://www.curiousily.com/posts/getting-started-with-tensorflow-js/
+- You Don't Know JS Yet (book series) - https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-yet-book-series---2nd-edition
 
 ### NodeJS
 

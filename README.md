@@ -32,6 +32,8 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - Getting Started with TensorFlow.js - https://www.curiousily.com/posts/getting-started-with-tensorflow-js/
 - You Don't Know JS Yet (book series) - https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-yet-book-series---2nd-edition
 - 30 Days JavaScript challenge, build 30 projects in 30 days - https://javascript30.com/
+- Building an App That Uses All 7 New JavaScript ES2020 Features
+  https://hackernoon.com/building-an-app-that-uses-all-7-new-javascript-es2020-features-6c6t3232
 
 ### NodeJS
 

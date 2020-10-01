@@ -30,6 +30,7 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - JavaScript event loop explained - https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4
 - DOM API cheat sheet - https://blog.logrocket.com/html5-node-cheat-sheet-21-apis-you-should-know-in-2020/
 - Getting Started with TensorFlow.js - https://www.curiousily.com/posts/getting-started-with-tensorflow-js/
+- 30 Days JavaScript challenge, build 30 projects in 30 days, best way to practice - https://javascript30.com/
 
 ### NodeJS
 
@@ -67,6 +68,7 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - CSS Grid: No Nonsense Layouts - https://testdriven.io/blog/css-grid/
 - CSS Architecture for Modern Web Applications - https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications/
 - Advanced Positional Tutorial - https://internetingishard.com/html-and-css/advanced-positioning/
+- Cheat Sheet for CSS - https://devhints.io/css
 
 ### Git
 

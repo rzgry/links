@@ -52,6 +52,7 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - Making Sense of React Hooks - https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
 - SVG for React Developers - https://able.bio/dbmzzo/intro-to-svg-for-react-developers--56cmmcy
 - Starting point for aspiring React developers - https://scrimba.com/learn/learnreact
+- 15 interesting projects every React developer should try - https://blog.nerdjfpb.com/project-ideas-for-react-js-beginners-to-expert/
 
 ### Go
 

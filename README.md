@@ -111,6 +111,7 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 
 - Beginners guide to Docker - https://www.learncloudnative.com/blog/2020-04-29-beginners-guide-to-docker/
 - Intro guide to dockerfile best practices - https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/
+- Dockerfile Security Best Practices - https://cloudberry.engineering/article/dockerfile-security-best-practices/
 
 ### Kubernetes
 

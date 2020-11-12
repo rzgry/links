@@ -34,6 +34,8 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - 30 Days JavaScript challenge, build 30 projects in 30 days - https://javascript30.com/
 - Building an App That Uses All 7 New JavaScript ES2020 Features
   https://hackernoon.com/building-an-app-that-uses-all-7-new-javascript-es2020-features-6c6t3232
+- Complete Modern JS tutorial - https://javascript.info/
+- Working with JavaScript Media Queries - https://css-tricks.com/working-with-javascript-media-queries/
 
 ### NodeJS
 
@@ -46,12 +48,19 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - Architecture flow - https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/
 - Memory Leaks Demystified - https://nodesource.com/blog/memory-leaks-demystified
 - Understanding streams in Node Js - https://nodesource.com/blog/understanding-streams-in-nodejs
+- Managing Node.js Callback Hell with Promises, Generators and Other Approaches - https://strongloop.com/strongblog/node-js-callback-hell-promises-generators/
+- The Great Escape from Callback Hell - https://medium.com/@js_tut/the-great-escape-from-callback-hell-3006fa2c82e
 
 ### ReactJS
 
 - Making Sense of React Hooks - https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
 - SVG for React Developers - https://able.bio/dbmzzo/intro-to-svg-for-react-developers--56cmmcy
 - Starting point for aspiring React developers - https://scrimba.com/learn/learnreact
+- Bootstrap for React - https://reactstrap.github.io/
+- A Simple React Router v4 Tutorial - https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
+- Creating Demo APIs with JSON-server for React- https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server
+- Fetch vs. Axios.js for making http requests in React - https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5
+- Simple beginner friendly React course - https://www.coursera.org/specializations/full-stack-react
 
 ### Go
 
@@ -73,12 +82,14 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - CSS Architecture for Modern Web Applications - https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications/
 - Advanced Positional Tutorial - https://internetingishard.com/html-and-css/advanced-positioning/
 - Cheat Sheet for CSS - https://devhints.io/css
+- Beyond Media Queries: Using Newer HTML & CSS Features for Responsive Designs - https://css-tricks.com/beyond-media-queries-using-newer-html-css-features-for-responsive-designs/
 
 ### Git
 
 - Opinionated git cheat sheet - https://www.bennadel.com/blog/3587-my-opinionated-git-cheat-sheet.htm#blog-post
 - Gitflow - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 - Conventional Commits - https://www.conventionalcommits.org/
+- Atlassian comprehensive Git tutorial - https://www.atlassian.com/git/tutorials
 
 ### System Design
 

@@ -46,6 +46,7 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 - Architecture flow - https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/
 - Memory Leaks Demystified - https://nodesource.com/blog/memory-leaks-demystified
 - Understanding streams in Node Js - https://nodesource.com/blog/understanding-streams-in-nodejs
+- 19 ways to become a better Node.js developer in 2019 - https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38
 
 ### ReactJS
 
@@ -95,6 +96,7 @@ The [CONTRIBUTING](./CONTRIBUTING.md) document contains details for submitting p
 
 - Intro to GraphQL - https://hasura.io/learn/graphql/react/intro-to-graphql/
 - So what’s this GraphQL thing I keep hearing about? - https://medium.com/free-code-camp/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
+- Creating A GraphQL Server With Node.js And Express - https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1
 
 ### Security
 
